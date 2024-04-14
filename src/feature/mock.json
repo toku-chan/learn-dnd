@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "boardId": 1,
+      "description": "board1",
+      "boardTitle": "ボード1",
+      "cardList": [
+        {
+          "cardId": 1,
+          "cardTitle": "カード1",
+          "cardDescription": "card1"
+        },
+        {
+          "cardId": 2,
+          "cardTitle": "カード2",
+          "cardDescription": "card2"
+        }
+      ]
+    },
+    {
+      "boardId": 2,
+      "description": "board2",
+      "boardTitle": "ボード2",
+      "cardList": [
+        {
+          "cardId": 3,
+          "cardTitle": "カード3",
+          "cardDescription": "card3"
+        },
+        {
+          "cardId": 4,
+          "cardTitle": "カード4",
+          "cardDescription": "card4"
+        }
+      ]
+    },
+    {
+      "boardId": 3,
+      "description": "board3",
+      "boardTitle": "ボード3",
+      "cardList": [
+        {
+          "cardId": 5,
+          "cardTitle": "カード5",
+          "cardDescription": "card5"
+        },
+        {
+          "cardId": 6,
+          "cardTitle": "カード6",
+          "cardDescription": "card6"
+        }
+      ]
+    }
+  ]
+}
